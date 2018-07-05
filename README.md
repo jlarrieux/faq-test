@@ -1,3 +1,7 @@
+---
+path: "/readme"
+---
+
 # MakerDAO FAQs
 
 This is the main repository for the MakerDao FAQs and should be considered the canonical source of truth for user facing documents in the ecosystem.
