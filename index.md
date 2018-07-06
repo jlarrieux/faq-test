@@ -2,8 +2,8 @@
 path: "/index"
 ---
 
-#[Liquidation](./liquidation)
+#[Liquidation](liquidation)
 
-- [What is Liquidation?](./liquidation/#What_is_Liquidation?)
+- [What is Liquidation?](liquidation/#What_is_Liquidation?)
 
-#[Interest](./interest)
+#[Interest](interest)
