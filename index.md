@@ -1,5 +1,5 @@
 ---
-path: "/index"
+path: "/"
 ---
 
 #[Liquidation](liquidation)
