@@ -1,3 +1,7 @@
+---
+title: "Interest"
+---
+
 # Do the MakerDAO smart contracts collect interest on opened CPDs?
 
 Yes. Maker collects interest called a Governance Fee. It is currently set to 0.5% APR and is calculated against the total amount of Dai drawn on your CDP.

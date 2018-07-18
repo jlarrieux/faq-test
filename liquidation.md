@@ -1,3 +1,7 @@
+---
+title "Liquidation"
+---
+
 # [What is Liquidation?](#What_is_Liquidation?)
 
 To ensure there is enough collateral in the system to guarantee the value of all outstanding Dai, a CDP can be liquidated if it is deemed unsafe. This occurs when the value of the collateral (as judged by the Oracle) is less than the required collateralization for the CDP. During the liquidation process, a CDP is locked, enough collateral is seized to cover its debt plus fees, and the remaining collateral is then made available to the user.
