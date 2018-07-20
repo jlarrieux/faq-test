@@ -1,5 +1,5 @@
 ---
-title "Liquidation"
+title: "Liquidation"
 ---
 
 # [What is Liquidation?](#What_is_Liquidation?)
