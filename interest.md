@@ -1,3 +1,3 @@
 # Interest
 
-See [Stability Fee](./stability-fee).
+See [Stability Fee](../stability-fee).
