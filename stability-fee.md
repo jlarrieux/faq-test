@@ -2,7 +2,7 @@
 title: "Stability Fee"
 ---
 # Do the Maker smart contracts collect a fee on outstanding Dai debt?
-Maker collects a Stability Fee, currently set to 0.5% APR, and is calculated against the total amount of DAI drawn on your CDP.
+Maker collects a Stability Fee, currently set to 7.5% APR, and is calculated against the total amount of DAI drawn on your CDP.
 
 The Stability Fee is calculated _continuously_. As we show in the formulas below, this type of compounding refers to a form of accrual that is measured in tiny increments instead of weeks, months, or years. This produces a fee that is very close to what one would expect from an annualized compounding.
 
